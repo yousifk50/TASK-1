@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Recursive function to calculate fac
+// Recursive function to calculate facيربليبسليب
 
 int fac(int n)
 {
